@@ -1,7 +1,7 @@
 
 
 function Home() {
-  return <div>Margalho</div>
+  return <div>Margalho o melhor</div>
 
 
 }
